@@ -6,7 +6,7 @@ To perform DC analysis, Transient analysis, and AC analysis of a Common Source (
 
 ## Components Required
 - MOSFET (cmosn, cmosp)
-- Resistor (21.6kΩ)
+-Resistor
 - Voltage supply
 - Connecting wires
 
@@ -26,7 +26,7 @@ A **Common Source (CS) amplifier** is a basic MOSFET amplifier configuration whe
 
 # Circuit 1
 
-![Screenshot 2025-02-16 234215]()
+![Screenshot 2025-02-16 234215]("C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-02-24 013038.png")
 
 ## DC Analysis
 
