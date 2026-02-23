@@ -26,20 +26,18 @@ A **Common Source (CS) amplifier** is a basic MOSFET amplifier configuration whe
 
 # Circuit 1
 
-![Screenshot 2025-02-16 234215]("C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-02-24 013038.png")
+"C:\Users\DELL\OneDrive\Pictures\Screenshots\Screenshot 2026-02-24 013038.png"
 
 ## DC Analysis
 
-![Screenshot 2025-02-16 234243]()
+
 
 ## Transient Analysis
 
-![Screenshot 2025-02-16 234223]()
+
 
 ## AC Analysis
 
-![Screenshot 2025-02-17 005427]()
-![Screenshot 2025-02-17 173340]()
 
 
 
