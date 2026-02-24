@@ -46,11 +46,15 @@ A **Common Source (CS) amplifier** is a basic MOSFET amplifier configuration whe
 
 ## Results
 The DC analysis determined the biasing conditions of the MOSFET, verifying that the operating point is correctly set with ( I_D ) .
+
 So the qpoint whould be ()
+
 The Transient analysis showed the time-domain response of the CS amplifier, confirming signal amplification.
+
 The AC analysis revealed a voltage gain of _____.
-Inference
-## Important Parameters of CS Amplifier:
+
+## Inference
+Important Parameters of CS Amplifier:
 
 Voltage Gain (Av): Ratio of output voltage to input voltage.
 
@@ -66,6 +70,6 @@ voltage devider circuit has been impimented so that we get stable q point.
 
 By increasing the width drain current increases.
 
-# In an actual IC transistors are replace other passive components like resistor.
+In an actual IC transistors are replace other passive components like resistor.
 
 
