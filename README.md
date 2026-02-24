@@ -44,13 +44,13 @@ A **Common Source (CS) amplifier** is a basic MOSFET amplifier configuration whe
 
 ![WhatsApp Image 2026-02-24 at 07 05 07](https://github.com/user-attachments/assets/173b2ef8-f9dd-4743-a9d3-441ed0f1acbd)
 
-Results
+## Results
 The DC analysis determined the biasing conditions of the MOSFET, verifying that the operating point is correctly set with ( I_D ) .
 So the qpoint whould be ()
 The Transient analysis showed the time-domain response of the CS amplifier, confirming signal amplification.
 The AC analysis revealed a voltage gain of _____.
 Inference
-Important Parameters of CS Amplifier:
+## Important Parameters of CS Amplifier:
 
 Voltage Gain (Av): Ratio of output voltage to input voltage.
 Input Impedance (Zin): Resistance seen at the input terminal.
