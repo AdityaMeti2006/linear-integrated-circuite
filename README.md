@@ -53,12 +53,19 @@ Inference
 ## Important Parameters of CS Amplifier:
 
 Voltage Gain (Av): Ratio of output voltage to input voltage.
+
 Input Impedance (Zin): Resistance seen at the input terminal.
+
 Output Impedance (Zout): Resistance seen at the output terminal.
+
 Cutoff Frequency: Frequency at which gain drops by 3 dB from its mid-band value.
+
 Phase Shift: The difference in phase between input and output signals.
+
 voltage devider circuit has been impimented so that we get stable q point.
+
 By increasing the width drain current increases.
-In an actual IC transistors are replace other passive components like resistor.
+
+# In an actual IC transistors are replace other passive components like resistor.
 
 
