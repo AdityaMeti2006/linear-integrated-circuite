@@ -275,7 +275,7 @@ No clipping observed.
 
 ### AC Command Used :
 
-.ac dec 100 1 1G
+.ac dec 10 100 1G
 
 ## Procedure 
 
