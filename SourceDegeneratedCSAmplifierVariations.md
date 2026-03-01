@@ -160,8 +160,7 @@ Bandwidth moderate.
 
 ## Circuit Diagram
 
-<img width="1489" height="779" alt="Screenshot 2026-03-01 211439" src="https://github.com/user-attachments/assets/83d9a046-4cb8-4b72-9759-e84c730dbfce" />
-
+<img width="1460" height="797" alt="Screenshot 2026-03-01 220331" src="https://github.com/user-attachments/assets/b9394a94-218b-49a4-8b0d-6d2818550ae0" />
 
 
 
@@ -261,8 +260,7 @@ Bandwidth higher than Rs case.
 ## Circuit Diagram
 
 
-<img width="1464" height="819" alt="Screenshot 2026-03-01 213325" src="https://github.com/user-attachments/assets/e9f42859-5ffc-45dd-b0cc-9105c5b001ab" />
-
+<img width="1537" height="827" alt="Screenshot 2026-03-01 220455" src="https://github.com/user-attachments/assets/f807a4cc-cd7e-4991-82c3-38ae70670285" />
 
 
 
